@@ -9,7 +9,7 @@
 * Soon to be added.
 
 **Availability**
-* i am mostly available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
+* i am available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
 
 **Pricing**
 * The pricing depends on the project. We can discuss the price on discord.
