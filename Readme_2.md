@@ -8,13 +8,13 @@ __ROBLOX WORK PORTOFOLIO__
 * NOTE: i won't script anything that i know is going to take alot of time unless the payment is worth it.
 
 * Including:
-  ** • DataStores.
-  ** • Shops/NPCs.
-  ** • UIs.
-  ** • Complete Back-Ends.
-  ** • Complete Front-Ends.
-  ** • Your Own Frameworks.
-  ** • etc.
+  * • DataStores.
+  * • Shops/NPCs.
+  * • UIs.
+  * • Complete Back-Ends.
+  * • Complete Front-Ends.
+  * • Your Own Frameworks.
+  * • etc.
 
 My working style is clean and sorted, so it will be easier to understand and edit.
 
