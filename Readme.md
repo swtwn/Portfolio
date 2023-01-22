@@ -22,7 +22,8 @@ My working style is clean and sorted, so it will be easier to understand and edi
 * Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
 * Recent Commissions (These aren't completed commissions, they are just some parts i am posting):
   * Some game i am making (Combat system test): https://i.gyazo.com/1b095c4a339c5910b82955f7c113da33.mp4
-  * 2 Players Fight: https://streamable.com/t2xqym
+  * Another Arena (1v1): https://streamable.com/t2xqym
+  * Arena (1v1): https://streamable.com/fjpd3x
   * Settings UI (Planets): https://i.gyazo.com/8975d8894836bc2132c11587962d8699.mp4, https://i.gyazo.com/f9d9be5339d071bb6078c390f01b7334.mp4
   * Time Stealing Sim: https://i.gyazo.com/758d5ec3e36a51b6d8924a11b536eaae.mp4, https://i.gyazo.com/5508606bcaed24f24b18c232425e34f7.mp4
 
