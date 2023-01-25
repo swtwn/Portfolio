@@ -26,6 +26,7 @@ My working style is clean and sorted, so it will be easier to understand and edi
   * • Arena (1v1): https://streamable.com/fjpd3x
   * • Settings UI (Planets): https://i.gyazo.com/8975d8894836bc2132c11587962d8699.mp4, https://i.gyazo.com/f9d9be5339d071bb6078c390f01b7334.mp4
   * • Time Stealing Sim: https://i.gyazo.com/758d5ec3e36a51b6d8924a11b536eaae.mp4, https://i.gyazo.com/5508606bcaed24f24b18c232425e34f7.mp4
+  * • Speed Sim: https://i.gyazo.com/29cf0c532851c949340612d1401ef190.mp4, https://i.gyazo.com/c39c1b4c60b65219ca0ac03695f87f87.mp4
 
 **Availability**
 * I am available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
