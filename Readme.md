@@ -22,11 +22,12 @@ My working style is clean and sorted, so it will be easier to understand and edi
 * Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
 * Recent Commissions (These aren't completed commissions, they are just some parts i am posting):
   * • Some game i am making (Combat system test): https://i.gyazo.com/1b095c4a339c5910b82955f7c113da33.mp4
-  * • Another Arena (1v1): https://streamable.com/t2xqym
-  * • Arena (1v1): https://streamable.com/fjpd3x
+  * • Another Arena (1v1): https://streamable.com/t2xqym, https://streamable.com/fjpd3x, https://streamable.com/fjpd3x
   * • Settings UI (Planets): https://i.gyazo.com/8975d8894836bc2132c11587962d8699.mp4, https://i.gyazo.com/f9d9be5339d071bb6078c390f01b7334.mp4
   * • Time Stealing Sim: https://i.gyazo.com/758d5ec3e36a51b6d8924a11b536eaae.mp4, https://i.gyazo.com/5508606bcaed24f24b18c232425e34f7.mp4
   * • Speed Sim: https://i.gyazo.com/29cf0c532851c949340612d1401ef190.mp4, https://i.gyazo.com/c39c1b4c60b65219ca0ac03695f87f87.mp4
+  * • Stairs Of Hell (Tycoon): https://streamable.com/gxpkcu
+  * • Morphing: https://streamable.com/8wpnf1
 
 **Availability**
 * I am available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
