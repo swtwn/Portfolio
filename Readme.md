@@ -28,7 +28,6 @@ My working style is clean and sorted, so it will be easier to understand and edi
   * • Speed Sim: https://i.gyazo.com/29cf0c532851c949340612d1401ef190.mp4, https://i.gyazo.com/c39c1b4c60b65219ca0ac03695f87f87.mp4
   * • Stairs Of Hell (Tycoon): https://streamable.com/gxpkcu
   * • Morphing: https://streamable.com/8wpnf1
-  * • Table Crafting (??): https://streamable.com/da4e1b
   * • AirPlane, Parachuting (IDK): https://streamable.com/j1itvv
 
 **Availability**
