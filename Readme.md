@@ -39,6 +39,5 @@ My working style is clean and sorted, so it will be easier to understand and edi
 **Payment:**
 * I would like to take a commited half/full payment upfront. since i don't want to waste either mine or your time. this way we both will be commited to our work.
 * Prices depends on the work.
-* I Don't do jobs below 5k robux or 30 usd.
 
 **Thank you for reading this**
