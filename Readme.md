@@ -10,11 +10,14 @@ __ROBLOX WORK PORTOFOLIO__
 * Including:
   * • DataStores.
   * • Shops/NPCs.
+  * • Mounts/Vehicles.
+  * • AI (Advanced/Normal/Custom).
   * • UIs.
   * • Complete Back-Ends.
   * • Complete Front-Ends.
   * • Your Own Frameworks.
   * • etc.
+  * • also doing full games and full systems.
 
 My working style is clean and sorted, so it will be easier to understand and edit.
 
