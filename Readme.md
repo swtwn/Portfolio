@@ -8,7 +8,7 @@ __ROBLOX WORK PORTOFOLIO__
 * NOTE: i won't script anything that i know is going to take alot of time unless the payment is worth it.
 
 * Including:
-  * • DataStores.
+  * • DataStores, Inventories, All Types of Datastore Frameworks.
   * • Shops/NPCs.
   * • Mounts/Vehicles.
   * • AI (Advanced/Normal/Custom).
@@ -16,10 +16,19 @@ __ROBLOX WORK PORTOFOLIO__
   * • Complete Back-Ends.
   * • Complete Front-Ends.
   * • Your Own Frameworks.
+  * • Plot System.
+  * • Zones.
+  * • Vehicles, Mounts.
+  * • Weapons, Guns, FPS.
+  * • Combat Structures, Full Game Stuctures, Game Combat Systems.
   * • etc.
-  * • also doing full games and full systems.
 
-My working style is clean and sorted, so it will be easier to understand and edit.
+* I can make you full games, can be any genre. you have to explain it good enough for me to understand the types of system it will require.
+
+* Games i have worked on:
+  * • Worked on countless games front page games, you can look me onto some. you can ask for details in my dms.
+
+My working style is clean and sorted, so it will be easier to understand and edit. You wouldn't have any complaints against the scripts i deliver.
 
 **PAST WORK**
 * Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
