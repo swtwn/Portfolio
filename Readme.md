@@ -30,7 +30,7 @@ __ROBLOX WORK PORTOFOLIO__
 
 My working style is clean and sorted, so it will be easier to understand and edit. You wouldn't have any complaints against the scripts i deliver.
 
-**PAST WORK**
+**PAST WORK (these don't represent me, as they are commissions i did, i dont save or post my commissions often)**
 * Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
 * Recent Commissions (These aren't completed commissions, they are just some parts i am posting):
   * • Some game i am making (Combat system test): https://i.gyazo.com/1b095c4a339c5910b82955f7c113da33.mp4
