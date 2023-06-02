@@ -1,7 +1,7 @@
 __ROBLOX WORK PORTOFOLIO__
 
 **Intro**
-* Hello, I am swtwn, I am a scripter and I specialize in some programming languages. I have worked at numerous front-page games, ask me in dms. My timing is GMT + 7.
+* Hello, I am swtwn, I am a scripter and I specialize in some programming languages. I have worked at numerous front-page games including riu, aut etc, ask me in dms. My timing is GMT + 7.
 
 **__SkillSet__**
 * I have been scripting on the ROBLOX platform for almost 4-7 years now. I can code in any style you prefer such as object-orienting programming (OOP), Module/Functions programming etc. I know both back-end and front-end scripting. I can code anything you want me to and in any style u want me to code it in. If you don't know anything about scripting, no worries, my scripting style is very easy to understand and very clean. I can work both as a team player or solo.
@@ -23,7 +23,7 @@ __ROBLOX WORK PORTOFOLIO__
   * • Combat Structures, Full Game Stuctures, Game Combat Systems.
   * • etc.
 
-* I can make you full games, can be any genre. you have to explain it good enough for me to understand the types of system it will require.
+* I can make you full games, can be any genre. you have to explain it good enough for me to understand the types of systems/frameworks it will require.
 
 * Games i have worked on:
   * • Worked on countless games front page games, you can look me onto some. you can ask for details in my dms.
