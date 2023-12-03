@@ -44,7 +44,7 @@ My working style is clean and sorted, so it will be easier to understand and edi
   * • Ladders Sim: https://streamable.com/jeu6nn
   * • Tycoon Building: https://streamable.com/oe4bsw
   * • AIs Optimizations Test: https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4
-  * • AIs Combat Test: https://cdn.discordapp.com/attachments/1110475601783042068/1160247569830641724/swtwntest_2023-10-07_21-08-12-310.mp4
+  * • AIs Mini Combat Test: https://cdn.discordapp.com/attachments/1110475601783042068/1160247569830641724/swtwntest_2023-10-07_21-08-12-310.mp4
   * • Combat Game Framework & Ability Test: https://cdn.discordapp.com/attachments/1110475601783042068/1110475841349111844/Gyutaro_Slashes.mp4
   * • First Person Realistic Movement Test: https://cdn.discordapp.com/attachments/1109177900130910298/1110485999873699900/CameraTilt.mp4
 
