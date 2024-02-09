@@ -52,7 +52,7 @@ My working style is clean and sorted, so it will be easier to understand and edi
 * I am available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
 
 **Contact:**
-* Discord: Satan#9279
+* Discord: Satan#9279 OR swtwn
 
 **Payment:**
 * I would like to take a commited half/full payment upfront. since i don't want to waste either mine or your time. this way we both will be commited to our work.
